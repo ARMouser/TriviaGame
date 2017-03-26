@@ -1,0 +1,70 @@
+body {
+	background:url(../images/gotbg.jpg) no-repeat #181818;
+	background-size:contain;
+	font-family: 'Crimson Text', serif;
+}
+.header {
+	background-color:#d4d4d4;
+	opacity:.8;
+	height:100px;
+	margin-left:25px;
+	width: 1175px;
+	text-align: center;
+}
+.game{
+	margin: 0px 20px 40px 20px;
+	height: 600px;
+	max-width: 980px;
+	background-color:#d4d4d4;
+	opacity:.8;
+	position:relative;
+	top: 0px;
+	left: 200px;
+}
+
+h1 {
+	font-size:48px;
+	padding:20px;
+	margin:40px 0px 100px 0px;
+	text-align:center;
+}
+h2, ul {
+	font-size:32px;
+	padding:20px;
+	text-align:center;
+}
+button {
+	background-color:#181818;
+	font-size:32px;
+	color:white;
+	border:blue;
+	width:inherit;
+	margin-top:200px;
+	margin-left:460px;
+}
+
+.wincount{
+	height:200px;
+	background-color:#d4d4d4;
+	opacity:.8;
+	max-width: 150px;
+	font-size:32px;
+	margin:20px 20px 20px 300px;
+	padding:20px;
+	position:relative;
+	top:-800px;
+	left:-280px;
+}
+.timer {
+	height:100px;
+	background-color:#d4d4d4;
+	opacity:.8;
+	max-width: 150px;
+	font-size:32px;
+	margin:20px;
+	margin-left:60px;
+	padding:20px;
+	position:relative;
+	left:-40px;
+	top:-180px;
+}
